@@ -1,0 +1,7 @@
+[package]
+name = "fn-like-composing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+fn-like-composing-macro={path="./fn-like-composing-macro"}
